@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Main Branch changes
+=======
+This is Bikram
+>>>>>>> development
 
 Hello This is welcome.txt file.

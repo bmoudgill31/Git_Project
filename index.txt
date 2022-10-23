@@ -1,0 +1,8 @@
+
+<<<<<<< HEAD:index.html
+Main branch chAGED
+=======
+This is Bikram
+>>>>>>> development:index.txt
+
+Hello this is index.txt file.
